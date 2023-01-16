@@ -49,19 +49,19 @@ npm install -g QComputeSDK-TypeScript
 1. Download QComputeSDK-TypeScript source code.
 
 ``` bash
-git clone https://github.com/baidu/QComputeTS.git
+git clone https://github.com/baidu/QComputeSDK-TS.git
 ```
 
 2. Install NPM requirements.
 
 ``` bash
-cd QComputeTS
+cd QComputeSDK-TS
 npm i
 ```
 
 ### Run Example
 
-Running the example code `QComputeSDK-TypeScript\Example\GHZ_Cloud.ts`.
+Running the example code `QComputeSDK-TS\Example\GHZ_Cloud.ts`.
 
 1. Input your Token into `GHZ_Cloud.ts`.  Token is an authorization credential for using cloud quantum computing resources, which can be obtained from [the Quantum-hub website](https://quantum-hub.baidu.com).
 
@@ -83,9 +83,9 @@ ts-node Example/Level_1/GHZ_Cloud.ts
     Circuit upload successful, circuitId => 165538 taskId => 162654
     Task 162654 is running, please wait...
     status changed waiting => success
-    Download origin success /home/user/QComputeTS/Output/remote.162654.origin.json size = 779
-    Download measure success /home/user/QComputeTs/Output/remote.162654.measure.json size = 24
-    {"counts":{"000":518,"111":506},"moduleList":[{"arguments":null,"module":"UnrollProcedureModule"},{"arguments":null,"module":"CompositeGateModule"},{"arguments":null,"module":"UnrollCircuitModule"},{"arguments":null,"module":"CompressGateModule"}],"origin":"/home/user/QComputeTS/Output/remote.162654.origin.json","status":"success","taskId":162654}
+    Download origin success /home/user/QComputeSDK-TS/Output/remote.162654.origin.json size = 779
+    Download measure success /home/user/QComputeSDK-TS/Output/remote.162654.measure.json size = 24
+    {"counts":{"000":518,"111":506},"moduleList":[{"arguments":null,"module":"UnrollProcedureModule"},{"arguments":null,"module":"CompositeGateModule"},{"arguments":null,"module":"UnrollCircuitModule"},{"arguments":null,"module":"CompressGateModule"}],"origin":"/home/user/QComputeSDK-TS/Output/remote.162654.origin.json","status":"success","taskId":162654}
     done
 ```
 
