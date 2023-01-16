@@ -164,5 +164,6 @@ typings/
 *.js.map
 
 Output
+*.d.ts
 
 .DS_Store
