@@ -3,12 +3,10 @@
     "module": "commonjs",
     "target": "esnext",
     "sourceMap": true,
-    "outDir": "dist",
     "declaration": true
   },
   "exclude": [
     "node_modules",
-    "Example",
-    "dist"
+    "Example"
   ]
 }

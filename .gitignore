@@ -164,6 +164,5 @@ typings/
 *.js.map
 
 Output
-dist
 
 .DS_Store
