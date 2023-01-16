@@ -6,7 +6,6 @@
     "declaration": true
   },
   "exclude": [
-    "Example",
     "node_modules"
   ]
 }
