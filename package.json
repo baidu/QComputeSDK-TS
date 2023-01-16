@@ -1,6 +1,6 @@
 {
   "name": "qcomputesdk-ts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "QComputeSDK-TS is the TypeScript language version of QComputeSDK (Python), the client of the Baidu quantum computing platform.",
   "author": "Institute for Quantum Computing, Baidu.",
   "license": "Apache",
