@@ -20,7 +20,7 @@ import {CX, ID} from "../../QCompute/QPlatform/Operation/FixedGate";
 import {MeasureZ} from "../../QCompute/QPlatform/Operation/Measure";
 import {CRX, CU, RX, U} from "../../QCompute/QPlatform/Operation/RotationGate";
 
-matchSdkVersion('TypeScript 1.0.0');
+matchSdkVersion('TypeScript 1.0.2');
 
 // Your token:
 Define.hubToken = '';

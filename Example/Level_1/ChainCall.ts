@@ -18,7 +18,7 @@ import {QEnv} from "../../QCompute/QPlatform/QEnv";
 import {QEnvOperation} from "../../QCompute/QPlatform/QEnvOperation";
 import {BackendName} from "../../QCompute/QPlatform/QPlatform";
 
-matchSdkVersion('TypeScript 1.0.0');
+matchSdkVersion('TypeScript 1.0.2');
 
 // Your token:
 Define.hubToken = '';

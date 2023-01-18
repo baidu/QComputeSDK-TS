@@ -2,7 +2,7 @@
 
 ![](https://release-data.cdn.bcebos.com/github-qleaf%2F%E9%87%8F%E6%98%93%E4%BC%8F%E5%9B%BE%E6%A0%87.png)
 
-[![](https://img.shields.io/badge/license-Apache%202.0-green)](./LICENSE) ![](https://img.shields.io/badge/build-passing-green) ![](https://img.shields.io/badge/node-19.4.0-blue) ![](https://img.shields.io/badge/release-v1.0.0-blue)
+[![](https://img.shields.io/badge/license-Apache%202.0-green)](./LICENSE) ![](https://img.shields.io/badge/build-passing-green) ![](https://img.shields.io/badge/node-19.4.0-blue) ![](https://img.shields.io/badge/release-v1.0.2-blue)
 
 QComputeSDK-TypeScript 是量易伏的量子开发套件 QCompute 的 TypeScript 语言版本，用于设计量子实验，包括编写量子电路、操控量子模块组件、提交计算任务到量易伏运行（<https://quantum-hub.baidu.com>），包括量子计算机和云端模拟器在内的量子端，都对 QComputeSDK-TypeScript 开放。
 

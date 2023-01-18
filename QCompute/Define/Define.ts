@@ -24,7 +24,7 @@ export default class Define {
     static env = 'prod';
     static quantumHubAddr: string;
     static quantumBucket: string;
-    static sdkVersion = 'TypeScript 1.0.0';
+    static sdkVersion = 'TypeScript 1.0.2';
     static taskSource = 'TsSDK';
     static noWaitTask: string;
     static pollInterval = 5;

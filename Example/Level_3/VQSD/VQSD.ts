@@ -21,7 +21,7 @@ import {BackendName} from "../../../QCompute/QPlatform/QPlatform";
 import {MeasureZ} from "../../../QCompute/QPlatform/Operation/Measure";
 import {QRegStorage} from "../../../QCompute/QPlatform/QRegPool";
 
-matchSdkVersion('TypeScript 1.0.0');
+matchSdkVersion('TypeScript 1.0.2');
 
 // Your token:
 Define.hubToken = '';

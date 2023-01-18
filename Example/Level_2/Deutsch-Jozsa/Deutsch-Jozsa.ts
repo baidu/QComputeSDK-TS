@@ -22,7 +22,7 @@ import {BackendName} from "../../../QCompute/QPlatform/QPlatform";
 import {X, CX, H} from "../../../QCompute/QPlatform/Operation/FixedGate";
 import {MeasureZ} from "../../../QCompute/QPlatform/Operation/Measure";
 
-matchSdkVersion('TypeScript 1.0.0');
+matchSdkVersion('TypeScript 1.0.2');
 
 // In this example we use 10 qubits as the main register,
 // and also an ancillary qubit else

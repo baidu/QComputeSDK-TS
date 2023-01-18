@@ -264,7 +264,7 @@ import {CU} from "../../../QCompute/QPlatform/Operation/RotationGate";
 import {BackendName} from "../../../QCompute/QPlatform/QPlatform";
 import {MeasureZ} from "../../../QCompute/QPlatform/Operation/Measure";
 
-matchSdkVersion('TypeScript 1.0.0');
+matchSdkVersion('TypeScript 1.0.2');
 
 // Your token:
 Define.hubToken = '';

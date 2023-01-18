@@ -160,10 +160,11 @@ typings/
 .dynamodb/
 
 .idea
+
 *.js
 *.js.map
+*.d.ts
 
 Output
-*.d.ts
 
 .DS_Store

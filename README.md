@@ -2,7 +2,7 @@
 
 ![](https://release-data.cdn.bcebos.com/github-qleaf%2F%E9%87%8F%E6%98%93%E4%BC%8F%E5%9B%BE%E6%A0%87.png)
 
-[![](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE) ![](https://img.shields.io/badge/build-passing-green) ![](https://img.shields.io/badge/node-19.4.0-blue) ![](https://img.shields.io/badge/release-v1.0.0-blue)
+[![](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE) ![](https://img.shields.io/badge/build-passing-green) ![](https://img.shields.io/badge/node-19.4.0-blue) ![](https://img.shields.io/badge/release-v1.0.2-blue)
 
 QComputeSDK-TypeScript is the TypeScript version of QCompute, the quantum development kit of Quantum Leaf. QComputeSDK-TypeScript can be used to design quantum experiments: build quantum circuits, manipulate quantum modules, and run quantum computing tasks on Quantum Leaf (<https://quantum-hub.baidu.com>). The user, via QComputeSDK-TypeScript, can use all quantum-ends on the cloud, including QPUs and cloud simulators.
 
