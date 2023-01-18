@@ -43,7 +43,7 @@ npm install -g ts-node
 **方法一：NPM 安装**
 
 ``` bash
-npm install -g qcompute-ts
+npm install qcomputesdk-ts
 ```
 
 **方法二：源代码安装**

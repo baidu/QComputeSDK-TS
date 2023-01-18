@@ -41,7 +41,7 @@ npm install -g ts-node
 **Method 1 - Install via NPM**
 
 ``` bash
-npm install -g QComputeSDK-TypeScript
+npm install qcomputesdk-ts
 ```
 
 **Method 2 - Install via source code**
